@@ -1,0 +1,4 @@
+Builds/*
+ChairRacingPrototype 4.20/Intermediate/*
+**/*.so
+**/*.bin
